@@ -1,5 +1,5 @@
 # FYP description 
- An application with minigames aimed to consolidate basic knowledge of Java learners.
+ A mobile application with minigames aimed to consolidate basic knowledge of Java learners made in Unity.
 # Scripts in main branch
   Scripts that are related to connecting to Firebase and UIs
 # Game 3
